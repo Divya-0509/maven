@@ -1,0 +1,16 @@
+mvn\v1\calculadores\CalculadorProyectoPorDefecto.class
+mvn\v1\modelo\Incidencia.class
+mvn\v1\calculadores\CalculadorEstadoIncidenciaPorDefecto.class
+mvn\v1\modelo\Version.class
+mvn\v1\modelo\Nombrable.class
+mvn\v1\modelo\Proyecto.class
+mvn\v1\modelo\EstadoIncidencia.class
+mvn\v1\modelo\Iconable.class
+mvn\v1\run\v1.class
+mvn\v1\modelo\Plan.class
+mvn\v1\acciones\CrearNuevaIncidenciaEnVersion.class
+mvn\v1\modelo\Trabajador.class
+mvn\v1\modelo\TipoIncidencia.class
+mvn\v1\modelo\Prioridad.class
+mvn\v1\modelo\Cliente.class
+mvn\v1\modelo\Periodo.class

@@ -1,0 +1,16 @@
+D:\Maven\Projects\v1\src\main\java\mvn\v1\acciones\CrearNuevaIncidenciaEnVersion.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\calculadores\CalculadorEstadoIncidenciaPorDefecto.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\calculadores\CalculadorProyectoPorDefecto.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Cliente.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\EstadoIncidencia.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Iconable.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Incidencia.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Nombrable.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Periodo.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Plan.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Prioridad.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Proyecto.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\TipoIncidencia.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Trabajador.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\modelo\Version.java
+D:\Maven\Projects\v1\src\main\java\mvn\v1\run\v1.java
